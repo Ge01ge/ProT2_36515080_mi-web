@@ -13,7 +13,7 @@
                     <!-- Originalmente el h2 iba class=carousel-caption 
                             pero no logre hacer que se vea el texto en vista movile asique
                         re-estructure el div de la imagen 
-                    <div class="carousel-caption d-none d-md-block"> </div> -->
+                    <div class="carousel-caption d-none d-md-block"></div> -->
                 </div>
 
                 <div class="carousel-item">
